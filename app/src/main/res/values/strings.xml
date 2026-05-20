@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SirDaba Delivery</string>
+    <string name="app_name_ar">سيرضبة للتوصيل</string>
+    <string name="distributor_login">تسجيل دخول الموزع</string>
+    <string name="offline_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="offline_body">تحقق من اتصالك وحاول مجدداً</string>
+    <string name="notification_channel_orders">طلبات التوصيل</string>
+    <string name="notification_channel_general">إشعارات عامة</string>
+</resources>

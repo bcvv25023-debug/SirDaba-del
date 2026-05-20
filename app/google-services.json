@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832769923009",
+    "project_id": "sirdaba-delivery-179b0",
+    "storage_bucket": "sirdaba-delivery-179b0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832769923009:android:0a2dcfe16c1f965a4a4140",
+        "android_client_info": {
+          "package_name": "com.sirdaba.sirdaba_delivery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW2jeHPppMTvQ8oLHhuEyVGbsotBGSYOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

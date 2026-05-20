@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- White base background to match logo -->
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" />
+        </shape>
+    </item>
+
+    <!-- Subtle green radial glow bottom-left -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:centerX="0.1"
+                android:centerY="0.9"
+                android:gradientRadius="500dp"
+                android:startColor="#1516A34A"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+    <!-- Subtle orange radial glow top-right -->
+    <item>
+        <shape android:shape="oval">
+            <gradient
+                android:type="radial"
+                android:centerX="0.9"
+                android:centerY="0.1"
+                android:gradientRadius="400dp"
+                android:startColor="#18F97316"
+                android:endColor="#00000000" />
+        </shape>
+    </item>
+
+</layer-list>
